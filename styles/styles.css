@@ -1,0 +1,21 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+#spanStyle {
+  font-weight: bold;
+  background: yellow;
+  color: #0f0f0f;
+  border-radius: 5px;
+  margin: 8px;
+}
+.hadding {
+  text-align: center;
+  color: skyblue;
+  background-color: #0f0f0f;
+  padding: 20px;
+  margin: 20px;
+  box-shadow: 3px 3px 8px skyblue;
+  border: 3px solid skyblue;
+  border-radius: 6px 6px 20px 6px;
+}
