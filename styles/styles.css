@@ -4,7 +4,7 @@
 }
 #spanStyle {
   font-weight: bold;
-  background: yellow;
+  background: #ffff00;
   color: #0f0f0f;
   border-radius: 5px;
   margin: 8px;
@@ -18,4 +18,7 @@
   box-shadow: 3px 3px 8px skyblue;
   border: 3px solid skyblue;
   border-radius: 6px 6px 20px 6px;
+  /* cursor: url("../Images/FB_IMG_1674231286403.jpg"), auto; */
+  /* cursor: url("../Images/1683707126171.jpg "), auto; */
+  cursor: url("../Images/download.png"), auto;
 }
