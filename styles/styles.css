@@ -50,7 +50,26 @@
   /* background-color: skyblue; */
   /* color: skyblue; */
 }
-.audioDiv {
+/* .hr {
+  width: 300px;
+  height: 2px;
+color: red;
+background-color: red;
+text-align: center;
+margin: 5px;
+display: block; 
+} */
+.hr {
+  height: 2px;
+  border-width: 0;
+  color: skyblue;
+  background-color: skyblue;
+  width: 250px;
+  /* text-align: center; */
+  margin: auto;
+  margin-top: 6px;
+}
+/* .audioDiv {
 }
 .audioH1 {
 }
@@ -62,4 +81,4 @@
 .videoH1 {
 }
 .video {
-}
+} */
