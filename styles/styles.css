@@ -22,3 +22,44 @@
   /* cursor: url("../Images/1683707126171.jpg "), auto; */
   cursor: url("../Images/download.png"), auto;
 }
+#mainDiv {
+  /* height: 800px;
+  width: 500px; */
+  text-align: center;
+  margin: 20px;
+  padding: 25px;
+  /* border: 3px solid red; */
+}
+
+.avH1 {
+  color: skyblue;
+}
+.avDiv {
+  display: inline-block;
+  margin: 20px;
+  padding: 25px;
+  box-shadow: 3px 3px 6px #0f0f0f;
+  border-radius: 6px;
+  background-color: #0f0f0f;
+  border: 1px solid skyblue;
+}
+.av {
+  display: inline-block;
+  padding: 5px;
+  margin: 15px 10px;
+  /* background-color: skyblue; */
+  /* color: skyblue; */
+}
+.audioDiv {
+}
+.audioH1 {
+}
+.oudio {
+}
+
+.videoDiv {
+}
+.videoH1 {
+}
+.video {
+}
