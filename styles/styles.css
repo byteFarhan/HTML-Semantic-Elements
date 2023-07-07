@@ -69,6 +69,10 @@ display: block;
   margin: auto;
   margin-top: 6px;
 }
+.footerStyle {
+  background-color: #0f0f0f;
+  color: white;
+}
 /* .audioDiv {
 }
 .audioH1 {
